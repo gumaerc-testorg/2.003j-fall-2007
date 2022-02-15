@@ -2,8 +2,12 @@
 content_type: resource
 description: Homework assignment on matrix generation, basic matrix operations, understanding
   data types, and submatrix extraction and plotting.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003j-dynamics-and-control-i-fall-2007/ec399fc2a3b43dd7806f8c7ec6a6aff7_hw1.pdf
+file: /media/courses/2-003j-dynamics-and-control-i-fall-2007/ec399fc2a3b43dd7806f8c7ec6a6aff7_hw1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: MATLAB Sessions
+parent_type: CourseSection
 resourcetype: Document
 title: hw1.pdf
 uid: ec399fc2-a3b4-3dd7-806f-8c7ec6a6aff7

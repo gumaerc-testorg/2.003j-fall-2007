@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: MATLAB Sessions
 uid: e591073d-637f-2015-2c3a-dfe6470dee71
 ---
