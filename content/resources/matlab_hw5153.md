@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
+parent_uid: e591073d-637f-2015-2c3a-dfe6470dee71
 resourcetype: Other
 title: matlab_hw5153.zip
 uid: cbb796c2-4d39-f5f6-44f3-ddadf82e4179

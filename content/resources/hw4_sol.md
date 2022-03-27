@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
+parent_uid: e591073d-637f-2015-2c3a-dfe6470dee71
 resourcetype: Document
 title: hw4_sol.pdf
 uid: bbd1a5f7-8ca6-3426-40fe-efc001856fe3

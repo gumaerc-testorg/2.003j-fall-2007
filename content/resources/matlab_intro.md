@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
+parent_uid: e591073d-637f-2015-2c3a-dfe6470dee71
 resourcetype: Document
 title: matlab_intro.pdf
 uid: d7a6ca80-a745-51a4-7b74-affde76abdc6

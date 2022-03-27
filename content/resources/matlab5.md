@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
+parent_uid: e591073d-637f-2015-2c3a-dfe6470dee71
 resourcetype: Document
 title: matlab5.pdf
 uid: e5dc255f-7d9a-f9f0-110d-6ec569e0d2e1

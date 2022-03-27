@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b7806f35-a1bf-e6a2-0308-951f8c19f8df
 resourcetype: Document
 title: survey.pdf
 uid: d831e5f1-4e49-0287-599a-77d34648ff98

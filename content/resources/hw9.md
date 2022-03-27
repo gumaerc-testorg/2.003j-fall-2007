@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
+parent_uid: e591073d-637f-2015-2c3a-dfe6470dee71
 resourcetype: Document
 title: hw9.pdf
 uid: 8a1477b7-2bb2-0aab-d2cd-e8cf27cf2111

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d9e55a5b-0459-56e5-d20b-269f1fb7dcd5
 resourcetype: Document
 title: system_behavior.pdf
 uid: 2cdba038-27d0-12dc-6940-2e8bb8828815

@@ -13,7 +13,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3)); supplemental instructions ([TXT](/courses/mechanical-engineering/2-003j-dynamics-and-control-i-fall-2007/assignments/ps3_note.txt))
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3)); supplemental instructions ([TXT]({{< baseurl >}}/resources/ps3_note))
 
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 

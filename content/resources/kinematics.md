@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d9e55a5b-0459-56e5-d20b-269f1fb7dcd5
 resourcetype: Document
 title: kinematics.pdf
 uid: dfeddd3f-1feb-4d82-ef16-1b066f6a6ba5
