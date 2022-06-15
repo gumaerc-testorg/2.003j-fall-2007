@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: In the episode of the Chalk Radio podcast embedded in this section, Professor
+  Sarma discusses the differences between nominal learning.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ac0c9ac5-dcb8-2a2a-4584-e9612066b0d9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Instructor Insights

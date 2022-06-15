@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: The syllabus section provides information on course goals, course materials,
+  class meetings, problem sets, tests, grading, recommended citation, and the lecture
+  calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 5817f0a5-35ce-d994-9c66-84e1ef1fe843
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -41,7 +48,7 @@ Class Meetings
 Each week, there will be two class lectures, one MATLAB® session, and one recitation.
 
 *   [Lectures]({{< baseurl >}}/pages/video-lectures) will be held for 90-minute periods twice per week. Lecture attendance is mandatory. Attendance and participation will be part of the grade.
-*   You will be assigned to a [MATLAB session]({{< baseurl >}}/pages/matlab-sessions) that meets once per week, covering material relevant to the course and problem sets. These sessions are a mix of lecture and hands-on lab activities.
+*   You will be assigned to a {{% resource_link e591073d-637f-2015-2c3a-dfe6470dee71 "MATLAB session" %}} that meets once per week, covering material relevant to the course and problem sets. These sessions are a mix of lecture and hands-on lab activities.
 *   The purpose of the recitations is to give students experience in the subject by working out examples and expanding on the material presented in the lectures. Attendance and participation in the recitations is mandatory.
 
 Problem Sets
