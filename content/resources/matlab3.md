@@ -5,6 +5,7 @@ description: Lecture slides on MATLAB programming, functions, sub-functions, and
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/33cfa56efd96ed77666268f650fc879a_matlab3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture slides on MATLAB programming, functions, sub-functions, and global variables.
-

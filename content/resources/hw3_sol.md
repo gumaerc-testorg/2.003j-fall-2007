@@ -8,6 +8,7 @@ description: Solutions to a homework assignment on calculating the trajectory of
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/6a7f5ea81bf238c70c8ddd48b56afa83_hw3_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to a homework assignment on calculating the trajectory of a ball dropping and bouncing with no drag force, calculating the trajectory of a ball dropping and bouncing with Stokes? drag, calculating the trajectory of a ball dropping and bouncing with quadratic drag, and a bonus question on calculating a more accurate trajectory of the ball with a given spatial resolution.
-

@@ -6,6 +6,7 @@ description: Homework assignment on the derivation of the equation of the motion
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/c816efe0f05ca65d98ce56335e990c03_hw7.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on the derivation of the equation of the motion for a rolling half-disk, generation of simulation codes for motion for a rolling half-disk, and the trajectory of ?(t) for both small and large angle oscillations.
-

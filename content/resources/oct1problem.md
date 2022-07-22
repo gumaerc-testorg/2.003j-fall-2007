@@ -6,6 +6,7 @@ file: /courses/2-003j-dynamics-and-control-i-fall-2007/1205dffcf7320bff8bc5b19e2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture handout with notes on a problem about a skier sliding on semicircular mountain.
-

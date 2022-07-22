@@ -5,6 +5,7 @@ description: Homework assignment on matrix creation with loop, matrix creation w
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/0ff3ce01dcb0ad64772c12cfe5a7580a_hw2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on matrix creation with loop, matrix creation with conditional, and velocity and acceleration profile calculation from the ball trajectory.
-

@@ -7,6 +7,7 @@ description: Homework assignment on calculating the factorial of non-negative in
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/04e5327631670c111a14ddb93fbcc528_hw5.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on calculating the factorial of non-negative integer with recursion, developing the algorithm for the solution of the Tower of Hanoi, solving the Tower of Hanoi with a recursive algorithm, and an optional problem on comparison between solving problems with and without recursion.
-

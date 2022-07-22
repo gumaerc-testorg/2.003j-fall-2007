@@ -6,6 +6,7 @@ file: /courses/2-003j-dynamics-and-control-i-fall-2007/9a45c8a9cfbd2434989813431
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture handout on rigid body dynamics, generalized coordinates, and the Lagrange equations.
-

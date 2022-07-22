@@ -6,6 +6,7 @@ file: /courses/2-003j-dynamics-and-control-i-fall-2007/a3c2e829007dae9827d465330
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on a dump truck, a dumbbell problem, masses and a pulley, and a bead on a fixed ring and a spring.
-

@@ -6,6 +6,7 @@ description: Homework assignment on writing a function to perform multiple matri
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/6b2709fcab3be89ceb79292f843c27e4_hw4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on writing a function to perform multiple matrix operations, integrating two functions numerically over a given interval using function handlers, and calculating the factorial of a non-negative integer.
-

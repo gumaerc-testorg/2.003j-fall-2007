@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -32,6 +33,4 @@ video_metadata:
 The "spider on a Frisbee" problem
 
 Kinematics using first principles: "downconvert" to ground frame
-
-
 

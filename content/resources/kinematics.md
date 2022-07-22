@@ -7,6 +7,7 @@ file: /courses/2-003j-dynamics-and-control-i-fall-2007/dfeddd3f1feb4d82ef161b066
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture handout on kinematics, dynamics, how the course is laid out, some basics on frames and derivatives of vectors, and calculating velocities and accelerations of given points.
-

@@ -5,6 +5,7 @@ description: Homework assignment on a nonlinear parametric pendulum, the growth/
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/21b9e6ccdcc6e0a1033ecdfc0e14523b_hw8.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on a nonlinear parametric pendulum, the growth/decay of populations of animal species, and a double-well potential system.
-

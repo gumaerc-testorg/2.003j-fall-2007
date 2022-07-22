@@ -6,6 +6,7 @@ file: /courses/2-003j-dynamics-and-control-i-fall-2007/6648c08aa9851a8b13e1b3ece
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on a pulley problem, a semicircular platform, and a dumbbell problem.
-

@@ -5,6 +5,7 @@ description: Homework assignment on matrix generation, basic matrix operations, 
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/ec399fc2a3b43dd7806f8c7ec6a6aff7_hw1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: MATLAB Sessions
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on matrix generation, basic matrix operations, understanding data types, and submatrix extraction and plotting.
-
