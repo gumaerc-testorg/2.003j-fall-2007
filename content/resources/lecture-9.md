@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Dumbbell problem, multiple particle systems, rigid bodies, derivation
   of torque'
 uid: 3a1632b9-1394-8722-2a18-2a3366f1c92c
@@ -18,3 +30,4 @@ video_metadata:
 **Topics:**
 
 Dumbbell problem, multiple particle systems, rigid bodies, derivation of torque = I\*alpha
+

@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Three cases, rolling disc problem'
 uid: b1a10a33-a2c6-d2bd-51fd-478cb29deec7
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics:**
 
 Three cases, rolling disc problem
+
