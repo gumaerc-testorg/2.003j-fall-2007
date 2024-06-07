@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides with an overview of MATLAB programming and MATLAB syntax.
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/309d908fe2a5dc3ba9d9ce3bf884d486_matlab1.pdf
+file_size: 322005
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

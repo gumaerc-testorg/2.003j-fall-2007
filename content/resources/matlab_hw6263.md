@@ -3,6 +3,7 @@ content_type: resource
 description: 'MATLAB solution files for Problems 6.2 and 6.3. (The ZIP file contains:
   MSDSE.m and MSDSRK.m.)'
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/0ede4763c998ec7d5288410a202c76fe_matlab_hw6263.zip
+file_size: 1549
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

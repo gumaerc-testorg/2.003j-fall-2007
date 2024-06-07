@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture handout on rigid body dynamics, generalized coordinates, and
   the Lagrange equations.
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/9a45c8a9cfbd2434989813431d6db1d4_lagrange.pdf
+file_size: 104997
 file_type: application/pdf
 learning_resource_types:
 - Readings
