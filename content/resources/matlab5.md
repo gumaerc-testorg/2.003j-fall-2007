@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on Eigenvalue problems and mechanical vibration.
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/e5dc255f7d9af9f0110d6ec569e0d2e1_matlab5.pdf
+file_size: 93827
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
