@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to a homework assignment on matrix generation, basic matrix
   operations, understanding data types, and submatrix extraction and plotting.
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/da494f0234fc7992f385bcb7feb409b0_hw1_sol.pdf
+file_size: 73383
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

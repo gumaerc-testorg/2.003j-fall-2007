@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB? file for Problem 1.4.
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/e6a14efe03588c91df74cd8c4b83b492_ballmat.mat
+file_size: 1905
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

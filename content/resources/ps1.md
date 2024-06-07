@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on curvilinear translation, a robot manipulator, and a sliding
   ladder.
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/a67841a3064b3862e020e89c2efba41d_ps1.pdf
+file_size: 51158
 file_type: application/pdf
 learning_resource_types:
 - Assignments

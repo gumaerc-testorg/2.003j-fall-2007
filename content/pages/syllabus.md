@@ -47,7 +47,7 @@ Class Meetings
 
 Each week, there will be two class lectures, one MATLAB® session, and one recitation.
 
-*   [Lectures]({{< baseurl >}}/pages/video-lectures) will be held for 90-minute periods twice per week. Lecture attendance is mandatory. Attendance and participation will be part of the grade.
+*   {{% resource_link "78f1656d-f317-625d-476b-300d9bef14e7" "Lectures" %}} will be held for 90-minute periods twice per week. Lecture attendance is mandatory. Attendance and participation will be part of the grade.
 *   You will be assigned to a {{% resource_link e591073d-637f-2015-2c3a-dfe6470dee71 "MATLAB session" %}} that meets once per week, covering material relevant to the course and problem sets. These sessions are a mix of lecture and hands-on lab activities.
 *   The purpose of the recitations is to give students experience in the subject by working out examples and expanding on the material presented in the lectures. Attendance and participation in the recitations is mandatory.
 
