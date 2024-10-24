@@ -2,7 +2,7 @@
 content_type: resource
 description: 'MATLAB solution files for Problems 5.1 and 5.3. (The ZIP file contains:
   fctrlrc.m and hanoi.m.)'
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/cbb796c24d39f5f644f3ddadf82e4179_matlab_hw5153.zip
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/cbb796c24d39f5f644f3ddadf82e4179_matlab_hw5153.zip
 file_size: 937
 file_type: application/zip
 learning_resource_types: []
