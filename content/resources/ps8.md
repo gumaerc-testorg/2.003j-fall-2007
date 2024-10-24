@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on a rack and pinion system.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/5e028aa72cfef6f222042cfb6f23c9c4_ps8.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/5e028aa72cfef6f222042cfb6f23c9c4_ps8.pdf
 file_size: 120307
 file_type: application/pdf
 learning_resource_types:
