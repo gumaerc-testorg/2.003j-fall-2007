@@ -2,7 +2,7 @@
 content_type: resource
 description: Exam with problems on sliding masses, cam follower and, ski-board on
   an incline.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/e194cdf85336379e7fd94f9137a803a9_exam2.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/e194cdf85336379e7fd94f9137a803a9_exam2.pdf
 file_size: 55884
 file_type: application/pdf
 learning_resource_types:

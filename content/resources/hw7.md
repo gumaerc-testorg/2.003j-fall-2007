@@ -3,7 +3,7 @@ content_type: resource
 description: Homework assignment on the derivation of the equation of the motion for
   a rolling half-disk, generation of simulation codes for motion for a rolling half-disk,
   and the trajectory of ?(t) for both small and large angle oscillations.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/c816efe0f05ca65d98ce56335e990c03_hw7.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/c816efe0f05ca65d98ce56335e990c03_hw7.pdf
 file_size: 48185
 file_type: application/pdf
 learning_resource_types: []
