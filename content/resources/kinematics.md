@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture handout on kinematics, dynamics, how the course is laid out,
   some basics on frames and derivatives of vectors, and calculating velocities and
   accelerations of given points.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/dfeddd3f1feb4d82ef161b066f6a6ba5_kinematics.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/dfeddd3f1feb4d82ef161b066f6a6ba5_kinematics.pdf
 file_size: 148700
 file_type: application/pdf
 learning_resource_types:

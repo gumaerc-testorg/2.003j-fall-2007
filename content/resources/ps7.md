@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on an oscillating slender rod, a double pendulum, and carts
   and springs.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/563e933796a2a6835bbad22b3644a052_ps7.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/563e933796a2a6835bbad22b3644a052_ps7.pdf
 file_size: 79872
 file_type: application/pdf
 learning_resource_types:

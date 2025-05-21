@@ -3,7 +3,7 @@ content_type: resource
 description: Solutions to a homework assignment on matrix creation with loop, matrix
   creation with conditional, and velocity and acceleration profile calculation from
   the ball trajectory.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/f870aab6ce5c687ae8ef5521bd11f622_hw2_sol.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/f870aab6ce5c687ae8ef5521bd11f622_hw2_sol.pdf
 file_size: 49164
 file_type: application/pdf
 learning_resource_types: []
