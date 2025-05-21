@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: problem set on a pulley problem and a robot manipulator.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/aeef4d89a15b58c97659f8d7c6eb09e1_ps2.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/aeef4d89a15b58c97659f8d7c6eb09e1_ps2.pdf
 file_size: 51533
 file_type: application/pdf
 learning_resource_types:

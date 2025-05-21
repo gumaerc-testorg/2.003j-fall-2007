@@ -2,7 +2,7 @@
 content_type: resource
 description: 'MATLAB solution files for Homework 4. (The ZIP file contains: bop.m,
   fctrl.m, and integral.m.)'
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/853d2e856b4a4944991588f48ed5031b_matlab_hw4.zip
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/853d2e856b4a4944991588f48ed5031b_matlab_hw4.zip
 file_size: 1106
 file_type: application/zip
 learning_resource_types: []

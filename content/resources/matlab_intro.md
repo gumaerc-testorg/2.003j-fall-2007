@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides with an introduction to MATLAB and programming to simulate
   dynamical systems.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/d7a6ca80a74551a47b74affde76abdc6_matlab_intro.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/d7a6ca80a74551a47b74affde76abdc6_matlab_intro.pdf
 file_size: 124727
 file_type: application/pdf
 learning_resource_types: []

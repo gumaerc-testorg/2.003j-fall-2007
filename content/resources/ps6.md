@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on a disc sliding in a circular well, and a slender rod sliding
   in a circular well.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/503b79bd0fe450013d407f97ae29463c_ps6.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/503b79bd0fe450013d407f97ae29463c_ps6.pdf
 file_size: 37854
 file_type: application/pdf
 learning_resource_types:
