@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam with problems on dynamics and control.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/439dc48b793a88f243216b49cb2c7ad0_exam2_f06.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/439dc48b793a88f243216b49cb2c7ad0_exam2_f06.pdf
 file_size: 56722
 file_type: application/pdf
 learning_resource_types:

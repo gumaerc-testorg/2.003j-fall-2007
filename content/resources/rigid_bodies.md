@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on the dynamics of rigid bodies, the easy free equation,
   power, and how to lay out the equations of motion.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/0e133cdaed77c88d433c55da8cea520d_rigid_bodies.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/0e133cdaed77c88d433c55da8cea520d_rigid_bodies.pdf
 file_size: 134143
 file_type: application/pdf
 learning_resource_types:

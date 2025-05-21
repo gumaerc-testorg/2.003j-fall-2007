@@ -2,7 +2,7 @@
 content_type: resource
 description: 'MATLAB solution files for Homework 2, Problem 2.3. (The ZIP file contains:
   HW023.m and ball.mat.)'
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/9d4a84f7c846df43afd7c5f6bd754d85_matlab_hw2.zip
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/9d4a84f7c846df43afd7c5f6bd754d85_matlab_hw2.zip
 file_size: 2276
 file_type: application/zip
 learning_resource_types: []

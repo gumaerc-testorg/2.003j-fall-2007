@@ -5,7 +5,7 @@ description: Solutions to a homework assignment on calculating the trajectory of
   dropping and bouncing with Stokes? drag, calculating the trajectory of a ball dropping
   and bouncing with quadratic drag, and a bonus question on calculating a more accurate
   trajectory of the ball with a given spatial resolution.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/6a7f5ea81bf238c70c8ddd48b56afa83_hw3_sol.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/6a7f5ea81bf238c70c8ddd48b56afa83_hw3_sol.pdf
 file_size: 135738
 file_type: application/pdf
 learning_resource_types: []

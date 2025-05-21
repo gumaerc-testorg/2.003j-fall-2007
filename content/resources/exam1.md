@@ -2,7 +2,7 @@
 content_type: resource
 description: Exam with problems on a robotic arm, wheels of a railway engine, and
   wheels with a spring.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/54296d27734363e04c53d957706f4fd7_exam1.pdf
+file: /courses/2-003j-dynamics-and-control-i-fall-2007/54296d27734363e04c53d957706f4fd7_exam1.pdf
 file_size: 65461
 file_type: application/pdf
 learning_resource_types:
