@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental instructions for problem set 3.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/10da76b85eca866e8e5881fdd855dd8b_ps3_note.txt
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/10da76b85eca866e8e5881fdd855dd8b_ps3_note.txt
 file_size: 1791
 file_type: text/plain
 learning_resource_types:
