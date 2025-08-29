@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on a pulley problem, a semicircular platform, and a dumbbell
   problem.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/6648c08aa9851a8b13e1b3ece5f539af_ps5.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/6648c08aa9851a8b13e1b3ece5f539af_ps5.pdf
 file_size: 67221
 file_type: application/pdf
 learning_resource_types:
