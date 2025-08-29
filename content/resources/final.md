@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam on dynamics and control.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/208aa4c3002d23bd450ae6fc0611b6cb_final.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/208aa4c3002d23bd450ae6fc0611b6cb_final.pdf
 file_size: 132312
 file_type: application/pdf
 learning_resource_types:

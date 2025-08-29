@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on MATLAB programming, functions, sub-functions, and global
   variables.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/33cfa56efd96ed77666268f650fc879a_matlab3.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/33cfa56efd96ed77666268f650fc879a_matlab3.pdf
 file_size: 92230
 file_type: application/pdf
 learning_resource_types: []

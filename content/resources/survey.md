@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice quiz with a prerequisites check and sample future problems.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/d831e5f14e490287599a77d34648ff98_survey.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/d831e5f14e490287599a77d34648ff98_survey.pdf
 file_size: 99636
 file_type: application/pdf
 learning_resource_types:

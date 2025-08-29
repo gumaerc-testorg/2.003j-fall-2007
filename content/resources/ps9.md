@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on equilibria, linearization, and stability.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/7a97e216e8eece8ffd6effd566f88e83_ps9.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/7a97e216e8eece8ffd6effd566f88e83_ps9.pdf
 file_size: 151888
 file_type: application/pdf
 learning_resource_types:

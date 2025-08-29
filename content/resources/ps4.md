@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on a dump truck, a dumbbell problem, masses and a pulley,
   and a bead on a fixed ring and a spring.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/a3c2e829007dae9827d46533040477dd_ps4.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/a3c2e829007dae9827d46533040477dd_ps4.pdf
 file_size: 61055
 file_type: application/pdf
 learning_resource_types:

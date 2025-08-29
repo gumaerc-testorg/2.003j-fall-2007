@@ -4,7 +4,7 @@ description: Solution to a homework assignment on the dynamics of a mass-spring-
   system, solver for a mass-spring-damper system using Euler method, solver for a
   mass-spring-damper system with using Runge-Kutta method, and the trajectory of a
   mass-spring-damper system with different parameters and initial conditions.
-file: /courses/2-003j-dynamics-and-control-i-fall-2007/e4c2fdc7a632f3510442bb49b5b99070_hw6_1_sol.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-fall-2007/e4c2fdc7a632f3510442bb49b5b99070_hw6_1_sol.pdf
 file_size: 91052
 file_type: application/pdf
 learning_resource_types: []
